@@ -47,8 +47,8 @@ margin: 0;
     margin-right: auto;
     margin-left: auto;
     width: 1158px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 12px;
+    padding-right: 12px;
 }
 
 /* site header */
@@ -303,13 +303,14 @@ color: var(--color-main-text);
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
 }
 .gallery .list:first-of-type {
     margin-bottom: 72px;
 }
-.gallery .item:not(:last-child) {
-    margin-right: 24px;
-}
+.gallery 
+
 
 /* gallery btn */
 .btn-gallery {
@@ -352,12 +353,6 @@ border: none;
     letter-spacing: 0.02em;
     text-align: start;
     color: var(--color-main-text);
-}
-.gallery-card:not(:nth-child(3n + 3)) {
-    margin-right: 24px;
-}
-.gallery-card:not(:nth-last-child(-n + 3)) {
-    margin-bottom: 48px;
 }
 .gallery-card img {
     display: block;

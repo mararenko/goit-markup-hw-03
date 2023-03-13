@@ -1,1 +1,24 @@
-# goit-markup-hw-03
+# Homework 03
+
+<article><span class="theme-doc-version-badge badge badge--secondary">Версія: 1.1</span><div class="theme-doc-markdown markdown"><ul><li>Створи репозиторій <code>goit-markup-hw-03</code>.</li><li>Склонуй створений репозиторій і скопіюй в нього файли попередньої роботи.</li><li>Додай стилі для геометрії (ширини, відступи, поля і рамки) і позиціонування
+контенту за допомогою Flexbox для сторінок макета
+<a href="https://www.figma.com/file/B1m2uk25m1eAgroESAuM2g/Web-Studio-(Version-3.0)?node-id=296708%3A626&amp;t=k38nrrKEjM1MnseU-0" target="_blank" rel="noopener noreferrer"><strong>домашнього завдання #3</strong></a>.</li><li>Налаштуй <code>GitHub Pages</code> і додай посилання на живу сторінку в шапку
+GitHub-репозиторія.</li></ul><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="критерії-приймання-роботи-наставником">Критерії приймання роботи наставником<a class="hash-link" href="#критерії-приймання-роботи-наставником" title="Пряме посилання на цей заголовок">​</a></h2><h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="проект">Проект<a class="hash-link" href="#проект" title="Пряме посилання на цей заголовок">​</a></h3><p><strong><code>«A1»</code></strong> У корені проекту є папка <code>images</code> з зображеннями.</p><p><strong><code>«A2»</code></strong> У корені проекту є папка <code>css</code> з файлами стилів.</p><p><strong><code>«A3»</code></strong> Всі стилі написані в одному файлі <code>styles.css</code>, який знаходиться в
+папці <code>css</code>.</p><p><strong><code>«A4»</code></strong> У назвах файлів відсутні великі літери, пробіли і трансліт, тільки
+літери і слова англійської мови.</p><p><strong><code>«A5»</code></strong> Вихідний код відформатований за допомогою <code>Prettier</code>.</p><p><strong><code>«A6»</code></strong> Всі зображення та текстовий контент взяті з макета.</p><p><strong><code>«A7»</code></strong> На всіх HTML-сторінках підключений нормалізатор стилів
+<a href="https://github.com/sindresorhus/modern-normalize" target="_blank" rel="noopener noreferrer"><code>modern-normalize</code></a>.</p><p><strong><code>«A7»</code></strong> Код написаний з дотриманням <a href="https://codeguide.co/" target="_blank" rel="noopener noreferrer"><strong>настанови</strong></a>.</p><h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="оформлення">Оформлення<a class="hash-link" href="#оформлення" title="Пряме посилання на цей заголовок">​</a></h3><p><strong><code>«B1»</code></strong> Допускається глобальне скидання стилів за селектором тегу для
+елементів <code>&lt;h1&gt;...&lt;h6&gt;</code>, <code>&lt;p&gt;</code> і <code>&lt;ul&gt;</code>.</p><p><strong><code>«B2»</code></strong> В елементів відсутні зовнішні відступи (властивість <code>margin</code>), що
+«пробивають» батьківський елемент.</p><p><strong><code>«B3»</code></strong> В однорядкових колекціях елементів очищений крайній лівий або правий
+<code>margin</code> елементів (якщо він є).</p><p><strong><code>«B4»</code></strong> Для відступів між двома сусідніми елементами використовується
+властивість <code>margin</code>.</p><p><strong><code>«B5»</code></strong> Для проміжку між межею батька і його дитиною використовується
+властивість <code>padding</code>.</p><p><strong><code>«B6»</code></strong> Розміри зовнішніх відступів (властивість <code>margin</code>) і внутрішніх полів
+(властивість <code>padding</code>) елементів задані точно за макетом.</p><p><strong><code>«B7»</code></strong> Створений загальний допоміжний клас <code>.container</code> для центрування і
+обмеження контенту по ширині.</p><p><strong><code>«B8»</code></strong> Ширина «контейнера» відповідає макету і дорівнює <code>1158px</code>.</p><p><strong><code>«B9»</code></strong> «Контейнер» обгортає контент хедера, футера і секцій. Тобто
+знаходиться всередині них.</p><p><strong><code>«B10»</code></strong> Для розташування елементів використовується <code>Flexbox</code>, але тільки
+там, де це необхідно. Наприклад у шапці, навігації, списках в секціях тощо,
+тобто там, де розташувати елементи горизонтально по-іншому неможливо.</p><p><strong><code>«B11»</code></strong> Фінальні розміри блоків в браузері відповідають макету.</p><p><strong><code>«B12»</code></strong> В елементів відсутня фіксована висота, вона визначається їх
+контентом.</p><p><strong><code>«B13»</code></strong> У хедера є нижня рамка, необхідно сильно наблизити макет, щоб
+побачити її.</p><p><strong><code>«B14»</code></strong> Секції розташовані одна під одною як стопка книг, без зовнішніх
+відступів.</p><p><strong><code>«B15»</code></strong> Для секцій використовується один клас <code>.section</code>,в якому задані відповідні падінги, що відсувають контент всередину секції.</p><p><strong><code>«B16»</code></strong> Для побудови сіток використовується техніка, що описана у конспекті
+і відео-майстерні.</p><p><strong><code>«B17»</code></strong> У картках на сторінці <code>Портфоліо</code> є рамка (властивість <code>border</code>),
+але тільки у нижній частині картки.</p></div></article>
